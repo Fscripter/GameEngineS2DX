@@ -1,0 +1,12 @@
+ 23:48:25 10/8/2024  |         Log          | Log System enabled
+ 23:48:25 10/8/2024  |      FileSystem      | File Manager enabled 🗃️
+ 23:48:25 10/8/2024  |   Settings loader    | Settings system enabled ✅
+ 23:48:25 10/8/2024  |    Booting system    | Start up system enabled ✅
+ 23:48:25 10/8/2024  |       Electron       | app is ready!
+ 23:48:25 10/8/2024  |      FileSystem      | Log System Write Disk enabled ✏️
+ 23:48:25 10/8/2024  |      FileSystem      | file: settings.json already exists in C:\Users\Juan Pablo Angulo\Documents\2024-1\S2D\S2DX\Settings
+ 23:48:25 10/8/2024  |   Settings loader    | settings.json already exists
+ 23:48:25 10/8/2024  |    Booting system    | Window created and animation started 🌈
+ 23:48:25 10/8/2024  |      FileSystem      | C:\Users\Juan Pablo Angulo\Documents\2024-1\S2D\S2DX\Settings/settings.json content has been read
+ 23:48:31 10/8/2024  |    Booting system    | Animation has finished
+ 23:48:31 10/8/2024  |      Tab System      | Main Window created 🎮

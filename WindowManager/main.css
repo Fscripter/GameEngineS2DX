@@ -1,0 +1,38 @@
+* {
+  margin: 0%;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+  background-color: black;
+  color: white;
+}
+#logoApp {
+  width: 80%;
+  height: auto;
+  border-radius: 50%;
+}
+.mainApp {
+  width: 100%;
+  height: 100%;
+}
+.logo-app {
+  width: 50%;
+  height: 100%;
+}
+.options {
+  width: 50%;
+  padding-top: 20%;
+}
+.options-links-normal-project {
+  margin-left: 15%;
+}
+.options-links {
+  height: 70%;
+}
+.options-links-normal {
+  margin-bottom: 12%;
+}
